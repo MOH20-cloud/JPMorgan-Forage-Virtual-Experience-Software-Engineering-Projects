@@ -1,3 +1,22 @@
+# Ignore build output
+target/
+
+# Ignore IDE/editor files
+.idea/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
+
+# Ignore archives
+*.zip
+*.tar
+*.tar.gz
+*.jarO
 # Maven / Java
 target/
 *.class
