@@ -1,15 +1,6 @@
-#J.P Morgan Chase - Software Engineering (Forage)
-> 
-> This repository contain my work for the JPMC Software Engineering Virtual Experience (Forage).
-> 
-> ## Task 1 - Project Setup
-> -Created Python virtual environment
-> -Installed Flask
-> -Added minimal Flask server ('server/app.py') to confirm setup
-> -Repo hygiene files (README, LICENSE, .gitignore)
-> 
-> ## Run Locally
-> '''bash
-> source .venv/bin/activate
-> pip install -r server/requirements.txt
-> python server/app.py
+# J.P. Morgan Chase — Forage Program
+
+This repo contains my work for the Forage program.
+
+- **Task 1:** Flask project setup (see Task-1/)
+- **Task 2:** Kafka integration with Spring Boot (see Task-2/)

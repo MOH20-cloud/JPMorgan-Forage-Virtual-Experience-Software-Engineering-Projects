@@ -1,16 +1,14 @@
-#Python
-__pycache__/
-*.py[cod]
+# Maven / Java
+target/
+*.class
+*.log
+*.jar
+
+# Python venv (Task 1)
 .venv/
-env/
-build/
-dist/
+venv/
+__pycache__/
 
-# Editors / OS
-.vscode/
-.idea/
+# OS/editor
 .DS_Store
-Thumbs.db
-
-#Secrets
-.env
+*.swp
