@@ -31,3 +31,6 @@ __pycache__/
 # OS/editor
 .DS_Store
 *.swp
+
+# H2 demo
+Task-3/h2-demo/target/
