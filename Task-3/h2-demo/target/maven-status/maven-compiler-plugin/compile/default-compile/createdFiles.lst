@@ -1,0 +1,7 @@
+com/example/h2demo/Note.class
+com/example/h2demo/UserRepository.class
+com/example/h2demo/NoteController.class
+com/example/h2demo/H2DemoApplication.class
+com/example/h2demo/UserController.class
+com/example/h2demo/User.class
+com/example/h2demo/NoteRepository.class

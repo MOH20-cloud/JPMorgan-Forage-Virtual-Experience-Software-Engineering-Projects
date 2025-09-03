@@ -1,36 +1,20 @@
-# Ignore build output
-target/
+# Maven target folder
+/target/
 
-# Ignore IDE/editor files
+# Logs
+*.log
+
+# IntelliJ / Eclipse / VSCode settings
 .idea/
 *.iml
 *.classpath
 *.project
-.settings/
+.vscode/
 
-# Ignore OS junk files
+# OS-specific files
 .DS_Store
 Thumbs.db
 
-# Ignore archives
-*.zip
-*.tar
-*.tar.gz
-*.jarO
-# Maven / Java
-target/
-*.class
-*.log
-*.jar
-
-# Python venv (Task 1)
-.venv/
-venv/
-__pycache__/
-
-# OS/editor
-.DS_Store
+# Backup files
+*.bak
 *.swp
-
-# H2 demo
-Task-3/h2-demo/target/
